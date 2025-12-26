@@ -1,0 +1,11 @@
+{
+  "id": "arabic-transliteration",
+  "name": "Arabic Transliteration",
+  "version": "0.1.0",
+  "minAppVersion": "1.5.0",
+  "description": "Type Arabic using Latin letters. Auto-transliterates on space with customizable rules.",
+  "author": "Yassine Eluharani",
+  "authorUrl": "https://github.com/yassine-eluharani",
+  "helpUrl": "https://github.com/yassine-eluharani/arabic-transliteration",
+  "isDesktopOnly": false
+}
